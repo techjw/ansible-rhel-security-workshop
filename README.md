@@ -1,2 +1,2 @@
-# ansible-security-workshop
-Ansible Security Workshop
+# ansible-rhel-security-workshop
+Ansible RHEL Security Workshop
